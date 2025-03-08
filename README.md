@@ -1,2 +1,7 @@
 # Jen-A-Profile
-My Profile for repo project
+## About Me:
+### My Likes-
+### My Dislikes-
+## Work and School Experience:
+### Work History-
+### School Info-
